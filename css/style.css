@@ -6,6 +6,7 @@
 body {
     margin: 0px;
     padding: 1rem;
+    background-image: linear-gradient(to right top, #71ff4c, #00efae, #00d6fb, #00b3ff, #0086ff, #0082ff, #007dff, #0079ff, #00a2ff, #00c4ff, #00e1ff, #5ffbf1);
 }
 
 header,
@@ -60,6 +61,10 @@ main form textarea {
 
 main form textarea {
     min-width: 100%;
+}
+
+main form select {
+    cursor: pointer;
 }
 
 .radios div {
