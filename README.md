@@ -7,3 +7,6 @@ Este repositório contém o código-fonte desenvolvido para a **Atividade 2**, u
 - **Jonathan Moura Andrade**
 - **Rogério Bernardo Gregório**
 - **Gabriel Vasques de Abreu**
+
+## Acesse a atividade online:
+[Formulário de Inscrição](https://kaikdev.github.io/atividade-2-form-de-inscricao/)
